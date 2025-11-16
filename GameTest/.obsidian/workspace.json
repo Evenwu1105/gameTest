@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "74c8e0b204c41242",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa0b638536c3c9d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f145ef1b75c9a1",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名 1.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf9e5268f2da3ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eaca9c209734833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "804f482cafe05722",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a5fb6a118e0c514a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "92bf467be0c0d60c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b146762d5fafc974",
+    "type": "split",
+    "children": [
+      {
+        "id": "52d49c04339896c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fe20ccc6575c57a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名 1.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 1 的反向链接列表"
+            }
+          },
+          {
+            "id": "433ad7804698ee06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名 1.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 1 的出链列表"
+            }
+          },
+          {
+            "id": "5202613fda710e24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "281ee37660e498ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名 1.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 1 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a2f145ef1b75c9a1",
+  "lastOpenFiles": [
+    "未命名.base",
+    "未命名 1.base",
+    "游戏测试-性能测试/未命名.md",
+    "游戏测试专项.md",
+    "游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
+    "游戏测试-性能测试",
+    "按测试平台分类/按测试平台分类.md",
+    "游戏研发核心技术（测试需关注的技术点）/游戏研发核心技术（测试需关注的技术点）.md",
+    "游戏研发核心技术（测试需关注的技术点）",
+    "按游戏类型分类（测试核心场景差异）/按游戏类型分类（测试核心场景差异）.md",
+    "游戏研发团队与测试角色（测试在团队中的定位）",
+    "按游戏类型分类（测试核心场景差异）/策略类（SLG）.md",
+    "按游戏类型分类（测试核心场景差异）/竞技类（MOBA  格斗）.md",
+    "按游戏类型分类（测试核心场景差异）/射击类（FPS TPS）.md",
+    "按游戏类型分类（测试核心场景差异）/休闲类（Casual）.md",
+    "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
+    "按测试平台分类/云游戏平台（Stadia  GeForceNow  腾讯云游戏）.md",
+    "按测试平台分类/PC 平台（Windows Mac Linux）.md",
+    "按测试平台分类/主机平台（PS5 XboxSeries NS）.md",
+    "按测试平台分类/移动平台（iOS Android）.md",
+    "按游戏类型分类（测试核心场景差异）",
+    "移动平台（iOS/Android）.md",
+    "移动平台（iOS",
+    "一、按测试平台分类.md",
+    "我的第三篇笔记.md",
+    "按测试平台分类/未命名.canvas",
+    "按测试平台分类/未命名 3",
+    "按测试平台分类/PC 平台 (Windows Mac Linux)",
+    "按测试平台分类/主机平台 (PS5 Xbox NS)",
+    "按测试平台分类/未命名/未命名",
+    "homebrew.md",
+    "Welcome.md"
+  ]
+}
