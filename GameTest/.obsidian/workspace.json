@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏测试-性能测试/网络测试.md",
+                "file": "clumsy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏测试-性能测试/网络测试.md",
+                "file": "clumsy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏测试-性能测试/网络测试.md",
+                "file": "clumsy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏测试-性能测试/网络测试.md"
+                "file": "clumsy.md"
               }
             }
           }
@@ -164,9 +164,10 @@
   },
   "active": "a2f145ef1b75c9a1",
   "lastOpenFiles": [
+    "游戏测试-性能测试/网络测试.md",
+    "clumsy.md",
     "Pasted image 20251117145741.png",
     "游戏测试-性能测试/兼容性测试.md",
-    "游戏测试-性能测试/网络测试.md",
     "Pasted image 20251117145643.png",
     "游戏测试-性能测试/服务端性能测试.md",
     "游戏测试-性能测试/客户端性能测试.md",
