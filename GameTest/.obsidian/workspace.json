@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pandas/pandas命令.md",
+                "file": "游戏测试专项.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pandas/pandas命令.md",
+                "file": "游戏测试专项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pandas/pandas命令.md",
+                "file": "游戏测试专项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pandas/pandas命令.md"
+                "file": "游戏测试专项.md"
               }
             }
           }
@@ -162,12 +162,16 @@
   },
   "active": "a2f145ef1b75c9a1",
   "lastOpenFiles": [
-    "pandas/MinMaxScaler.md",
-    "pandas/LabelEncoder和MinMaxScaler的区别.md",
-    "pandas/LabelEncoder.md",
-    "pandas/pandas命令.md",
-    "游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
     "人工智能考证.md",
+    "pandas/pandas的plot.md",
+    "pandas/MinMaxScaler.md",
+    "pandas/matplotlib.pyplot.md",
+    "pandas/pandas的plot和matplotlib.pyplot的区别.md",
+    "pandas/LabelEncoder和MinMaxScaler的区别.md",
+    "plot.md",
+    "pandas/pandas命令.md",
+    "pandas/LabelEncoder.md",
+    "游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
     "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
     "pandas",
     "按游戏类型分类（测试核心场景差异）/策略类（SLG）.md",
@@ -192,11 +196,8 @@
     "移动平台（iOS/Android）.md",
     "移动平台（iOS",
     "一、按测试平台分类.md",
-    "我的第三篇笔记.md",
     "按测试平台分类/未命名.canvas",
     "按测试平台分类/未命名 3",
-    "按测试平台分类/PC 平台 (Windows Mac Linux)",
-    "homebrew.md",
-    "Welcome.md"
+    "按测试平台分类/PC 平台 (Windows Mac Linux)"
   ]
 }
