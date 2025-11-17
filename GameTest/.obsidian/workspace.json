@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏测试-性能测试/未命名.md",
+                "file": "游戏测试-性能测试/网络测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏测试-性能测试/未命名.md",
+                "file": "游戏测试-性能测试/网络测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏测试-性能测试/未命名.md",
+                "file": "游戏测试-性能测试/网络测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏测试-性能测试/未命名.md"
+                "file": "游戏测试-性能测试/网络测试.md"
               }
             }
           }
@@ -164,8 +164,11 @@
   },
   "active": "a2f145ef1b75c9a1",
   "lastOpenFiles": [
+    "Pasted image 20251117145741.png",
+    "游戏测试-性能测试/兼容性测试.md",
+    "游戏测试-性能测试/网络测试.md",
+    "Pasted image 20251117145643.png",
     "游戏测试-性能测试/服务端性能测试.md",
-    "游戏测试-性能测试/未命名.md",
     "游戏测试-性能测试/客户端性能测试.md",
     "游戏测试-性能测试/阿里EMAS.md",
     "Pasted image 20251117144420.png",
@@ -196,8 +199,6 @@
     "按测试平台分类/云游戏平台（Stadia  GeForceNow  腾讯云游戏）.md",
     "按测试平台分类/移动平台（iOS Android）.md",
     "游戏研发核心技术（测试需关注的技术点）/游戏研发核心技术（测试需关注的技术点）.md",
-    "按游戏类型分类（测试核心场景差异）/休闲类（Casual）.md",
-    "按测试平台分类/按测试平台分类.md",
     "未命名.base",
     "未命名 1.base",
     "游戏测试-性能测试",
