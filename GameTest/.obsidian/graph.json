@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:按测试平台分类  ",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path:pandas  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -41,11 +48,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.80989583333333,
   "lineSizeMultiplier": 2.55,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.307291666666667,
   "repelStrength": 11.4583333333333,
   "linkStrength": 0.682291666666667,
   "linkDistance": 285,
   "scale": 0.1316872427983546,
-  "close": true
+  "close": false
 }

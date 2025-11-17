@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏测试专项.md",
+                "file": "人工智能考证.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,6 +78,7 @@
       {
         "id": "52d49c04339896c1",
         "type": "tabs",
+        "dimension": 29.962894248608535,
         "children": [
           {
             "id": "5fe20ccc6575c57a",
@@ -85,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏测试专项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏测试专项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "游戏测试专项.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -134,6 +131,7 @@
       {
         "id": "452099342d2fc0fc",
         "type": "tabs",
+        "dimension": 70.03710575139146,
         "children": [
           {
             "id": "71988089e66905dc",
@@ -147,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 490.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,9 +158,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2f145ef1b75c9a1",
+  "active": "71988089e66905dc",
   "lastOpenFiles": [
     "人工智能考证.md",
+    "游戏测试-性能测试/未命名.md",
+    "pandas/划分数据.md",
+    "游戏测试专项.md",
     "pandas/pandas的plot.md",
     "pandas/MinMaxScaler.md",
     "pandas/matplotlib.pyplot.md",
@@ -186,8 +187,6 @@
     "按游戏类型分类（测试核心场景差异）/射击类（FPS TPS）.md",
     "未命名.base",
     "未命名 1.base",
-    "游戏测试-性能测试/未命名.md",
-    "游戏测试专项.md",
     "游戏测试-性能测试",
     "游戏研发核心技术（测试需关注的技术点）",
     "按游戏类型分类（测试核心场景差异）/按游戏类型分类（测试核心场景差异）.md",
@@ -195,7 +194,6 @@
     "按游戏类型分类（测试核心场景差异）",
     "移动平台（iOS/Android）.md",
     "移动平台（iOS",
-    "一、按测试平台分类.md",
     "按测试平台分类/未命名.canvas",
     "按测试平台分类/未命名 3",
     "按测试平台分类/PC 平台 (Windows Mac Linux)"
