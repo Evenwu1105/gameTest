@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏测试-性能测试/服务端性能测试.md",
+                "file": "游戏测试-性能测试/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏测试-性能测试/服务端性能测试.md",
+                "file": "游戏测试-性能测试/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏测试-性能测试/服务端性能测试.md",
+                "file": "游戏测试-性能测试/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏测试-性能测试/服务端性能测试.md"
+                "file": "游戏测试-性能测试/未命名.md"
               }
             }
           }
@@ -164,8 +164,9 @@
   },
   "active": "a2f145ef1b75c9a1",
   "lastOpenFiles": [
-    "游戏测试-性能测试/客户端性能测试.md",
     "游戏测试-性能测试/服务端性能测试.md",
+    "游戏测试-性能测试/未命名.md",
+    "游戏测试-性能测试/客户端性能测试.md",
     "游戏测试-性能测试/阿里EMAS.md",
     "Pasted image 20251117144420.png",
     "Pasted image 20251117144103.png",
@@ -197,7 +198,6 @@
     "游戏研发核心技术（测试需关注的技术点）/游戏研发核心技术（测试需关注的技术点）.md",
     "按游戏类型分类（测试核心场景差异）/休闲类（Casual）.md",
     "按测试平台分类/按测试平台分类.md",
-    "按测试平台分类/PC 平台（Windows Mac Linux）.md",
     "未命名.base",
     "未命名 1.base",
     "游戏测试-性能测试",
