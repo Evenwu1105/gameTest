@@ -8,7 +8,7 @@ data = pd.read_csv('medical_data.csv', encoding='gbk')
 ## 查看表结构基础信息
 
 ```python
-print(data.info)
+print(data.info())
 ```
 
 ## 重命名列名
