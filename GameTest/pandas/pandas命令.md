@@ -11,4 +11,10 @@ data = pd.read_csv('medical_data.csv', encoding='gbk')
 print(data.info)
 ```
 
+## 重命名列名
+
+```python
+data.rename(columns={'病人ID': '患者ID'}, inplace=True)
+```
+
 
