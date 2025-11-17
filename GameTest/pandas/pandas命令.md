@@ -59,3 +59,34 @@ treatment_outcome_distribution.plot(kind='bar', stacked=True)
 >[!NOTE] 
 >`unstack()` 是 pandas 中用于**重塑数据结构**的重要方法，作用是将 DataFrame 中的**行索引（index）“旋转” 为列**，简单说就是 “把行上的层级信息展开到列上”，让数据从 “紧凑格式” 变为 “展开格式”。
 
+```python
+# 示例数据（先创建一个带多层行索引的 Series/DataFrame）
+data = pd.Series(
+    [15, 20, 10, 12],
+    index=pd.MultiIndex.from_tuples(
+        [('感冒', '男'), ('感冒', '女'), ('发烧', '男'), ('发烧', '女')],
+        names=['疾病类型', '性别']  # 行索引的层级名称
+    ),
+    name='人数'
+)
+
+print("原始数据（堆叠状态）：")
+print(data)
+# 输出：
+# 疾病类型  性别
+# 感冒     男      15
+#         女      20
+# 发烧     男      10
+#         女      12
+# Name: 人数, dtype: int64
+
+# 使用 unstack() 展开（默认将最后一层行索引转为列）
+unstacked = data.unstack()
+print("\nunstack() 后（展开状态）：")
+print(unstacked)
+# 输出：
+# 性别      女   男
+# 疾病类型
+# 感冒     20  15
+# 发烧     12  10
+```
