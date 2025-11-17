@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "71988089e66905dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pandas/pandas命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pandas/pandas命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pandas/pandas命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +122,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pandas/pandas命令.md"
-              }
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "452099342d2fc0fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71988089e66905dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -161,8 +158,8 @@
   },
   "active": "71988089e66905dc",
   "lastOpenFiles": [
-    "人工智能考证.md",
     "pandas/pandas命令.md",
+    "人工智能考证.md",
     "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
     "pandas",
     "按游戏类型分类（测试核心场景差异）/策略类（SLG）.md",

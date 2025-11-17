@@ -118,3 +118,8 @@ data_cleaned = data.dropna().copy()
 >[!NOTE] 为什么要用copy( )？
 >在 pandas 中使用 `.copy()` 主要是为了避免**数据引用带来的意外修改问题**，确保你操作的是 “独立的数据副本”，而不是原数据的 “视图（引用）”。
 
+转换为数值类型，无法转换的设为 NaN
+
+```python
+data_cleaned['Your age'] = pd.to_numeric(data_cleaned['Your age'])
+```
