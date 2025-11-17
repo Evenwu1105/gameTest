@@ -11,15 +11,24 @@
             "id": "a2f145ef1b75c9a1",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9ba746c486ae023",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏测试-性能测试/Unity 3D.md",
+                "file": "安全测试.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +87,6 @@
       {
         "id": "52d49c04339896c1",
         "type": "tabs",
-        "dimension": 29.962894248608535,
         "children": [
           {
             "id": "5fe20ccc6575c57a",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏测试-性能测试/Unity 3D.md",
+                "file": "安全测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏测试-性能测试/Unity 3D.md",
+                "file": "安全测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,23 +134,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏测试-性能测试/Unity 3D.md"
+                "file": "安全测试.md"
               }
             }
           }
         ]
       },
       {
-        "id": "452099342d2fc0fc",
+        "id": "ffb330e0e7d84795",
         "type": "tabs",
-        "dimension": 70.03710575139146,
         "children": [
           {
             "id": "71988089e66905dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "游戏测试-性能测试/Unity 3D.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -162,27 +173,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2f145ef1b75c9a1",
+  "active": "a9ba746c486ae023",
   "lastOpenFiles": [
+    "游戏测试专项.md",
+    "clumsy.md",
+    "安全测试.md",
+    "游戏测试-性能测试/阿里EMAS.md",
+    "游戏测试-性能测试/性能测试.md",
     "游戏测试-性能测试/客户端性能测试.md",
     "游戏测试-性能测试/Unity 3D.md",
     "游戏测试-性能测试/服务端性能测试.md",
-    "游戏测试-性能测试/阿里EMAS.md",
     "网络测试.md",
-    "开发者工具网页模仿弱网.md",
-    "Pasted image 20251117152818.png",
-    "clumsy.md",
-    "Pasted image 20251117152750.png",
-    "Pasted image 20251117151325.png",
-    "Pasted image 20251117145741.png",
     "兼容性测试.md",
-    "Pasted image 20251117145643.png",
-    "Pasted image 20251117144420.png",
-    "Pasted image 20251117144103.png",
-    "Pasted image 20251117143945.png",
-    "Pasted image 20251117143602.png",
-    "Pasted image 20251117143546.png",
-    "游戏测试专项.md",
+    "picture_resource/Pasted image 20251117143455.png",
+    "picture_resource/Pasted image 20251117152818.png",
+    "picture_resource",
+    "picture_resource/Pasted image 20251117152750.png",
+    "picture_resource/Pasted image 20251117151325.png",
+    "picture_resource/Pasted image 20251117144420.png",
+    "picture_resource/Pasted image 20251117144103.png",
+    "picture_resource/Pasted image 20251117143602.png",
+    "picture_resource/Pasted image 20251117143501.png",
+    "开发者工具网页模仿弱网.md",
+    "picture_resource/Pasted image 20251117145741.png",
+    "picture_resource/Pasted image 20251117145643.png",
     "pandas/pandas的plot和matplotlib.pyplot的区别.md",
     "人工智能考证.md",
     "pandas/pandas命令.md",
@@ -199,7 +213,6 @@
     "pandas",
     "按游戏类型分类（测试核心场景差异）/策略类（SLG）.md",
     "按测试平台分类/主机平台（PS5 XboxSeries NS）.md",
-    "按测试平台分类/云游戏平台（Stadia  GeForceNow  腾讯云游戏）.md",
     "未命名.base",
     "未命名 1.base",
     "游戏测试-性能测试",
@@ -208,7 +221,6 @@
     "按游戏类型分类（测试核心场景差异）",
     "移动平台（iOS",
     "按测试平台分类/未命名.canvas",
-    "按测试平台分类/未命名 3",
-    "按测试平台分类/PC 平台 (Windows Mac Linux)"
+    "按测试平台分类/未命名 3"
   ]
 }
