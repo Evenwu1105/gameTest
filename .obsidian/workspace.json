@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameTest/pandas/pandas命令.md",
+                "file": "GameTest/安装包和依赖/安装包和依赖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pandas命令"
+              "title": "安装包和依赖"
             }
           }
         ]
@@ -183,9 +183,10 @@
   },
   "active": "b2b0693c38d9b37f",
   "lastOpenFiles": [
+    "GameTest/按测试平台分类/按测试平台分类.md",
+    "GameTest/pandas/pandas命令.md",
     "GameTest/pandas/pandas的plot和matplotlib.pyplot的区别.md",
     "GameTest/pandas/pandas的plot.md",
-    "GameTest/pandas/pandas命令.md",
     "GameTest/pandas/matplotlib.pyplot.md",
     "GameTest/pandas/MinMaxScaler.md",
     "GameTest/pandas/LabelEncoder和MinMaxScaler的区别.md",
@@ -208,7 +209,6 @@
     "GameTest/游戏测试-性能测试/客户端性能测试.md",
     "GameTest/游戏测试-性能测试/服务端性能测试.md",
     "GameTest/游戏测试-性能测试/阿里EMAS.md",
-    "GameTest/按游戏类型分类（测试核心场景差异）/策略类（SLG）.md",
     "GameTest/未命名 1.base",
     "GameTest/未命名.base",
     "GameTest/安装包和依赖/clumsy-0.3-win64-a.zip",
