@@ -26,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ca255bd22360d99b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "自动化测试.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自动化测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自动化测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,27 +131,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "自动化测试.md"
-              }
+              "state": {}
             }
           }
         ]
       },
       {
-        "id": "ffb330e0e7d84795",
+        "id": "64e649e107e5e9ff",
         "type": "tabs",
         "children": [
           {
-            "id": "71988089e66905dc",
+            "id": "ca255bd22360d99b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "游戏测试-性能测试/Unity 3D.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -187,8 +167,9 @@
   },
   "active": "ca255bd22360d99b",
   "lastOpenFiles": [
-    "兼容性测试.md",
+    "airtest.md",
     "自动化测试.md",
+    "兼容性测试.md",
     "安全测试.md",
     "游戏测试专项.md",
     "clumsy.md",
@@ -224,7 +205,6 @@
     "游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
     "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
     "pandas",
-    "按游戏类型分类（测试核心场景差异）/策略类（SLG）.md",
     "未命名.base",
     "未命名 1.base",
     "游戏测试-性能测试",
