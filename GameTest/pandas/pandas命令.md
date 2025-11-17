@@ -109,3 +109,12 @@ plt.scatter(data['年龄',data['疾病严重程度']])
 >- pandas 的 `df.plot(kind='scatter', x='列名', y='列名')` 是基于 `plt.scatter()` 的封装，更方便直接使用 DataFrame 中的列作为 x、y 轴数据（无需手动提取）。
 
 两者最终效果一致，只是使用场景不同：原生函数更灵活，pandas 封装更简洁（适合直接基于表格数据绘图）。
+
+```python
+# 删除含有缺失值的行  
+data_cleaned = data.dropna().copy()
+```
+
+>[!NOTE] 为什么要用copy()？
+>在 pandas 中使用 `.copy()` 主要是为了避免**数据引用带来的意外修改问题**，确保你操作的是 “独立的数据副本”，而不是原数据的 “视图（引用）”。
+
