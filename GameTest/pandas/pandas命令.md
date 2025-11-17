@@ -55,3 +55,7 @@ treatment_outcome_distribution = data.groupby('疾病类型')['治疗结果'].va
 # 绘制柱状图  
 treatment_outcome_distribution.plot(kind='bar', stacked=True)
 ```
+
+>[!NOTE] 
+>`unstack()` 是 pandas 中用于**重塑数据结构**的重要方法，作用是将 DataFrame 中的**行索引（index）“旋转” 为列**，简单说就是 “把行上的层级信息展开到列上”，让数据从 “紧凑格式” 变为 “展开格式”。
+
