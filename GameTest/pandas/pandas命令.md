@@ -30,3 +30,11 @@ data.drop_duplicates(subset=['患者ID'], inplace=True)
 duplicates = data.duplicated()
 ```
 
+## 对需要归一化的列进行处理
+
+```python
+scaler = MinMaxScaler()  
+columns_to_normalize = ['年龄','体重','身高']  
+data[columns_to_normalize] = scaler.fit_transform(data[columns_to_normalize])
+```
+
