@@ -99,6 +99,10 @@ print(unstacked)
 >- **`plot`（pandas）**：负责 “快速基于数据绘图”，简化数据与图表的绑定过程。
 >- **`plt`（matplotlib）**：负责 “美化和控制图表细节”，是所有 matplotlib 系图表的通用调整工具。
 
+```python
+plt.scatter(data['年龄',data['疾病严重程度']])
+```
+
 >[!NOTE] 
 >### 与 pandas 的 `plot(kind='scatter')` 区别：
 >- `plt.scatter(x, y)` 是 matplotlib 原生函数，需要手动传入 x 和 y 轴的具体数据（如列表、数组）。
