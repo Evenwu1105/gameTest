@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "fa0b638536c3c9d9",
-        "type": "tabs",
+        "id": "fe4cedb8f172d649",
+        "type": "split",
         "children": [
           {
-            "id": "a2f145ef1b75c9a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pandas/LabelEncoder和MinMaxScaler.md",
-                "mode": "source",
-                "source": false
+            "id": "fa0b638536c3c9d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a2f145ef1b75c9a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "pandas/LabelEncoder.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "3bfe2463734d09b6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "122453956ae9a65b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "pandas/MinMaxScaler.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b146762d5fafc974",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pandas/LabelEncoder和MinMaxScaler.md",
+                "file": "pandas/MinMaxScaler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pandas/LabelEncoder和MinMaxScaler.md",
+                "file": "pandas/MinMaxScaler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pandas/LabelEncoder和MinMaxScaler.md"
+                "file": "pandas/MinMaxScaler.md"
               }
             }
           }
@@ -160,10 +186,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2f145ef1b75c9a1",
+  "active": "122453956ae9a65b",
   "lastOpenFiles": [
+    "pandas/MinMaxScaler.md",
+    "pandas/LabelEncoder.md",
+    "pandas/LabelEncoder和MinMaxScaler的区别.md",
     "pandas/pandas命令.md",
-    "pandas/LabelEncoder和MinMaxScaler.md",
     "游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
     "人工智能考证.md",
     "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
