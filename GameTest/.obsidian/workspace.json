@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "1c0ed0aab0b1669e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "122453956ae9a65b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pandas/LabelEncoder和MinMaxScaler的区别.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "fa0b638536c3c9d9",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pandas/LabelEncoder.md",
+                "file": "pandas/pandas命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b146762d5fafc974",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pandas/LabelEncoder.md",
+                "file": "pandas/pandas命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pandas/LabelEncoder.md",
+                "file": "pandas/pandas命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pandas/LabelEncoder.md"
+                "file": "pandas/pandas命令.md"
               }
             }
           }
@@ -181,9 +162,9 @@
   },
   "active": "a2f145ef1b75c9a1",
   "lastOpenFiles": [
+    "pandas/MinMaxScaler.md",
     "pandas/LabelEncoder和MinMaxScaler的区别.md",
     "pandas/LabelEncoder.md",
-    "pandas/MinMaxScaler.md",
     "pandas/pandas命令.md",
     "游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
     "人工智能考证.md",
