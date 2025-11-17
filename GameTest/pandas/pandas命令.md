@@ -38,3 +38,20 @@ columns_to_normalize = ['年龄','体重','身高']
 data[columns_to_normalize] = scaler.fit_transform(data[columns_to_normalize])
 ```
 
+>[!NOTE] 
+>`plot` 是 pandas 中 DataFrame/Series 对象的**内置绘图方法**
+>`bar` 是 `plot` 方法中 `kind` 参数的一个可选值，代表**柱状图（垂直柱状图）**，用于展示**分类数据的数值对比**（如不同类别的数量、平均值、总和等）。
+当 `kind='bar'` 时，绘制的是**垂直柱状图**（柱子垂直向上，x 轴是类别，y 轴是数值）。
+若用 `kind='barh'`，则绘制**水平柱状图**（柱子水平向右，y 轴是类别，x 轴是数值）。
+
+```python
+数据对象.plot(kind=图表类型, ...其他参数)
+```
+
+## 例:
+```python
+# 统计治疗结果分布  
+treatment_outcome_distribution = data.groupby('疾病类型')['治疗结果'].value_counts().unstack()
+# 绘制柱状图  
+treatment_outcome_distribution.plot(kind='bar', stacked=True)
+```
