@@ -1,3 +1,4 @@
+## 三端都可使用
 ![[Pasted image 20251117151325.png]]
 - # Lag-延迟
 	- Delay-max:3000ms(3s)

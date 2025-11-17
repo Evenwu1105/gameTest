@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clumsy-三端都能用.md",
+                "file": "游戏测试-性能测试/网络测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clumsy-三端都能用.md",
+                "file": "游戏测试-性能测试/网络测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clumsy-三端都能用.md",
+                "file": "游戏测试-性能测试/网络测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clumsy-三端都能用.md"
+                "file": "游戏测试-性能测试/网络测试.md"
               }
             }
           }
@@ -164,14 +164,17 @@
   },
   "active": "a2f145ef1b75c9a1",
   "lastOpenFiles": [
+    "游戏测试-性能测试/客户端性能测试.md",
+    "游戏测试-性能测试/开发者工具网页模仿弱网.md",
+    "游戏测试-性能测试/服务端性能测试.md",
     "游戏测试-性能测试/网络测试.md",
-    "clumsy-三端都能用.md",
+    "Pasted image 20251117152818.png",
+    "clumsy.md",
+    "Pasted image 20251117152750.png",
     "Pasted image 20251117151325.png",
     "Pasted image 20251117145741.png",
     "游戏测试-性能测试/兼容性测试.md",
     "Pasted image 20251117145643.png",
-    "游戏测试-性能测试/服务端性能测试.md",
-    "游戏测试-性能测试/客户端性能测试.md",
     "游戏测试-性能测试/阿里EMAS.md",
     "Pasted image 20251117144420.png",
     "Pasted image 20251117144103.png",
@@ -179,8 +182,6 @@
     "Pasted image 20251117143945.png",
     "Pasted image 20251117143602.png",
     "Pasted image 20251117143546.png",
-    "Pasted image 20251117143501.png",
-    "Pasted image 20251117143455.png",
     "游戏测试专项.md",
     "pandas/pandas的plot和matplotlib.pyplot的区别.md",
     "人工智能考证.md",
@@ -199,7 +200,6 @@
     "按游戏类型分类（测试核心场景差异）/策略类（SLG）.md",
     "按测试平台分类/主机平台（PS5 XboxSeries NS）.md",
     "按测试平台分类/云游戏平台（Stadia  GeForceNow  腾讯云游戏）.md",
-    "按测试平台分类/移动平台（iOS Android）.md",
     "未命名.base",
     "未命名 1.base",
     "游戏测试-性能测试",
