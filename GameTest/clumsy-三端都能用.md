@@ -1,0 +1,12 @@
+![[Pasted image 20251117151325.png]]
+- # Lag-延迟
+	- Delay-max:3000ms(3s)
+- # Drop-丢包
+	- Chance:丢包概率
+- # Throttle-截流（截下来收发的包然后一次性发出或收入）
+	- TimeFrame（ms）截取多久的包
+- # Duplicate-重复包 
+	- Count:复制多少份
+- # Out of order-收发顺序打乱
+	- Chance:触发概率10%
+- # Tamper-收发包进行内容篡改
