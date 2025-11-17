@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安全测试.md",
+                "file": "clumsy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c2257efa6b05d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "airtest.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "airtest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "airtest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,10 +145,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "airtest.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "64e649e107e5e9ff",
@@ -165,14 +182,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca255bd22360d99b",
+  "active": "2c2257efa6b05d45",
   "lastOpenFiles": [
-    "airtest.md",
     "自动化测试.md",
+    "安装包和依赖/安装包和依赖.md",
+    "安装包和依赖/clumsy-0.3-win64-a.zip",
+    "安装包和依赖/未命名.md",
+    "安装包和依赖",
+    "clumsy.md",
+    "airtest.md",
     "兼容性测试.md",
     "安全测试.md",
     "游戏测试专项.md",
-    "clumsy.md",
     "游戏测试-性能测试/阿里EMAS.md",
     "游戏测试-性能测试/性能测试.md",
     "游戏测试-性能测试/客户端性能测试.md",
@@ -201,9 +222,6 @@
     "pandas/pandas的plot.md",
     "pandas/划分数据.md",
     "pandas/LabelEncoder.md",
-    "plot.md",
-    "游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
-    "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
     "pandas",
     "未命名.base",
     "未命名 1.base",
@@ -211,8 +229,6 @@
     "游戏研发核心技术（测试需关注的技术点）",
     "游戏研发团队与测试角色（测试在团队中的定位）",
     "按游戏类型分类（测试核心场景差异）",
-    "移动平台（iOS",
-    "按测试平台分类/未命名.canvas",
-    "按测试平台分类/未命名 3"
+    "按测试平台分类/未命名.canvas"
   ]
 }
