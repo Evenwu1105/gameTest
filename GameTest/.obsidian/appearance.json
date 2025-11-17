@@ -2,5 +2,7 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Minimal",
-  "interfaceFontFamily": "Bradley Hand ITC"
+  "interfaceFontFamily": "Bradley Hand ITC",
+  "textFontFamily": "Arial",
+  "baseFontSize": 19
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
+                "file": "pandas/pandas命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
+                "file": "pandas/pandas命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
+                "file": "pandas/pandas命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md"
+                "file": "pandas/pandas命令.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "a2f145ef1b75c9a1",
   "lastOpenFiles": [
+    "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
+    "pandas/pandas命令.md",
+    "pandas",
     "按游戏类型分类（测试核心场景差异）/策略类（SLG）.md",
     "按测试平台分类/主机平台（PS5 XboxSeries NS）.md",
     "按测试平台分类/云游戏平台（Stadia  GeForceNow  腾讯云游戏）.md",
@@ -157,7 +160,6 @@
     "按游戏类型分类（测试核心场景差异）/休闲类（Casual）.md",
     "按测试平台分类/按测试平台分类.md",
     "按测试平台分类/PC 平台（Windows Mac Linux）.md",
-    "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
     "按游戏类型分类（测试核心场景差异）/竞技类（MOBA  格斗）.md",
     "按游戏类型分类（测试核心场景差异）/射击类（FPS TPS）.md",
     "未命名.base",
@@ -176,7 +178,6 @@
     "按测试平台分类/未命名.canvas",
     "按测试平台分类/未命名 3",
     "按测试平台分类/PC 平台 (Windows Mac Linux)",
-    "按测试平台分类/主机平台 (PS5 Xbox NS)",
     "homebrew.md",
     "Welcome.md"
   ]
