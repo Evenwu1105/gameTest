@@ -123,3 +123,10 @@ data_cleaned = data.dropna().copy()
 ```python
 data_cleaned['Your age'] = pd.to_numeric(data_cleaned['Your age'])
 ```
+
+类型转换`astype`
+
+```python
+data_cleaned.loc[:, 'Your age'] = data_cleaned['Your age'].astype(int)
+```
+
