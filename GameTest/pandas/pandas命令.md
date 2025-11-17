@@ -18,25 +18,8 @@ data.rename(columns={'病人ID': '患者ID'}, inplace=True)
 ```
 
 
-## 只根据“患者ID”列去重（相同ID的行视为重复）
 
-```python
-data.drop_duplicates(subset=['患者ID'], inplace=True)
-```
 
-## 检测重复行
-
-```python
-duplicates = data.duplicated()
-```
-
-## 对需要归一化的列进行处理
-
-```python
-scaler = MinMaxScaler()  
-columns_to_normalize = ['年龄','体重','身高']  
-data[columns_to_normalize] = scaler.fit_transform(data[columns_to_normalize])
-```
 
 >[!NOTE] 
 >`plot` 是 pandas 中 DataFrame/Series 对象的**内置绘图方法**
