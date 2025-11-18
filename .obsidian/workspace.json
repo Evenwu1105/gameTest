@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "125c791c49d1bf50",
+        "id": "b236df66bf32328b",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameTest/安装包和依赖/安装包和依赖.md",
+                "file": "GameTest/pandas/matplotlib.pyplot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "安装包和依赖"
+              "title": "matplotlib.pyplot"
             }
           }
         ]
@@ -163,11 +163,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "e90570654300a011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295ad6d3c500fa10",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,13 +196,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2b0693c38d9b37f",
+  "active": "295ad6d3c500fa10",
   "lastOpenFiles": [
+    "GameTest/pandas/matplotlib.pyplot.md",
+    "GameTest/按游戏类型分类（测试核心场景差异）/休闲类（Casual）.md",
+    "GameTest/按测试平台分类/移动平台（iOS Android）.md",
+    "GameTest/安装包和依赖/安装包和依赖.md",
     "GameTest/按测试平台分类/按测试平台分类.md",
     "GameTest/pandas/pandas命令.md",
     "GameTest/pandas/pandas的plot和matplotlib.pyplot的区别.md",
     "GameTest/pandas/pandas的plot.md",
-    "GameTest/pandas/matplotlib.pyplot.md",
     "GameTest/pandas/MinMaxScaler.md",
     "GameTest/pandas/LabelEncoder和MinMaxScaler的区别.md",
     "GameTest/pandas/LabelEncoder.md",
@@ -206,9 +224,6 @@
     "GameTest/游戏研发核心技术（测试需关注的技术点）/游戏研发核心技术（测试需关注的技术点）.md",
     "GameTest/游戏测试-性能测试/Unity 3D.md",
     "GameTest/游戏测试-性能测试/性能测试.md",
-    "GameTest/游戏测试-性能测试/客户端性能测试.md",
-    "GameTest/游戏测试-性能测试/服务端性能测试.md",
-    "GameTest/游戏测试-性能测试/阿里EMAS.md",
     "GameTest/未命名 1.base",
     "GameTest/未命名.base",
     "GameTest/安装包和依赖/clumsy-0.3-win64-a.zip",
