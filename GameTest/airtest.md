@@ -3,4 +3,4 @@
 - ## 兼容性：支持各种操作系统
 - ## 支持不同元素定位方式（图像定位，元素定位）
 - touch点击![[Pasted image 20251118204501.png]]
-- ![[Pasted image 20251118204537.png]]![[Pasted image 20251118204631.png]]
+- ![[Pasted image 20251118204537.png]]![[Pasted image 20251118204631.png]]![[Pasted image 20251118204705.png]]
