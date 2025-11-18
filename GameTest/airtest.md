@@ -11,4 +11,5 @@
 - ## 截图![[Pasted image 20251118205206.png]]
 - ## 显示等待 ![[Pasted image 20251118205245.png]]
 - ## 断言![[Pasted image 20251118205343.png]]
+- ## 断言图标是否存在 ![[Pasted image 20251118205502.png]]
 - 
