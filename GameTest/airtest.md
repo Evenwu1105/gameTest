@@ -2,5 +2,13 @@
 - ## 用途：各种软件测试
 - ## 兼容性：支持各种操作系统
 - ## 支持不同元素定位方式（图像定位，元素定位）
-- touch点击![[Pasted image 20251118204501.png]]
-- ![[Pasted image 20251118204537.png]]![[Pasted image 20251118204631.png]]![[Pasted image 20251118204705.png]]
+- ##  ==touch点击==![[Pasted image 20251118204501.png]]
+- ## 隐式等待![[Pasted image 20251118204537.png]]
+- ## 滑动Swipe![[Pasted image 20251118204631.png]]
+- ## 是否存在页面元素![[Pasted image 20251118204705.png]]
+- ## 填写文本![[Pasted image 20251118204813.png]]
+- ## 手机固定按键点击事件 ![[Pasted image 20251118205049.png]]
+- ## 截图![[Pasted image 20251118205206.png]]
+- ## 显示等待 ![[Pasted image 20251118205245.png]]
+- ## 断言![[Pasted image 20251118205343.png]]
+- 
