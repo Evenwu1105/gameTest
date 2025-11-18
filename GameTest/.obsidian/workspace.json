@@ -119,16 +119,32 @@
             "id": "aeed5a0c0af2363e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "requests.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.3"
+              "icon": "lucide-file",
+              "title": "requests"
+            }
+          },
+          {
+            "id": "b605374ff248e150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -201,6 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +227,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Test 的反向链接列表"
             }
           },
           {
@@ -219,11 +236,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Test 的出链列表"
             }
           },
           {
@@ -247,12 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Test 的大纲"
             }
           }
         ],
@@ -291,10 +310,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aeed5a0c0af2363e",
+  "active": "b605374ff248e150",
   "lastOpenFiles": [
-    "clumsy.md",
     "requests.md",
+    "Test.md",
+    "clumsy.md",
     "pytest.md",
     "自动化测试.md",
     "游戏测试专项.md",
@@ -331,7 +351,6 @@
     "picture_resource/Pasted image 20251117145643.png",
     "pandas/pandas的plot和matplotlib.pyplot的区别.md",
     "pandas/pandas命令.md",
-    "pandas/drop_duplicates和duplicated的区别.md",
     "pandas",
     "未命名.base",
     "未命名 1.base",
