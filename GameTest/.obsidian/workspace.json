@@ -33,14 +33,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "airtest.md",
+                "file": "自动化测试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe40036b51cbb26e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "requests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7863a7a59db3b689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "requests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7b8563b2142b12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "requests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39c2096585bd9865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "requests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c68a11b930aa2f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "requests.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -106,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "airtest.md",
+                "file": "requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "airtest.md",
+                "file": "requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "airtest.md"
+                "file": "requests.md"
               }
             }
           }
@@ -169,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 305.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,24 +243,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c2257efa6b05d45",
+  "active": "5c68a11b930aa2f8",
   "lastOpenFiles": [
+    "pytest.md",
+    "requests.md",
     "自动化测试.md",
+    "游戏测试专项.md",
+    "clumsy.md",
+    "python数据类型-集合.md",
+    "python中找json数据具体值.md",
+    "可变关键字参数.md",
+    "网络测试.md",
+    "开发者工具网页模仿弱网.md",
+    "人工智能考证.md",
+    "游戏研发核心技术（测试需关注的技术点）/游戏研发核心技术（测试需关注的技术点）.md",
+    "游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
+    "airtest.md",
     "安装包和依赖/安装包和依赖.md",
     "安装包和依赖/clumsy-0.3-win64-a.zip",
     "安装包和依赖/未命名.md",
     "安装包和依赖",
-    "clumsy.md",
-    "airtest.md",
     "兼容性测试.md",
     "安全测试.md",
-    "游戏测试专项.md",
     "游戏测试-性能测试/阿里EMAS.md",
     "游戏测试-性能测试/性能测试.md",
     "游戏测试-性能测试/客户端性能测试.md",
     "游戏测试-性能测试/Unity 3D.md",
     "游戏测试-性能测试/服务端性能测试.md",
-    "网络测试.md",
     "picture_resource/Pasted image 20251117143455.png",
     "picture_resource/Pasted image 20251117152818.png",
     "picture_resource",
@@ -209,19 +279,11 @@
     "picture_resource/Pasted image 20251117144103.png",
     "picture_resource/Pasted image 20251117143602.png",
     "picture_resource/Pasted image 20251117143501.png",
-    "开发者工具网页模仿弱网.md",
     "picture_resource/Pasted image 20251117145741.png",
     "picture_resource/Pasted image 20251117145643.png",
     "pandas/pandas的plot和matplotlib.pyplot的区别.md",
-    "人工智能考证.md",
     "pandas/pandas命令.md",
     "pandas/drop_duplicates和duplicated的区别.md",
-    "pandas/LabelEncoder和MinMaxScaler的区别.md",
-    "pandas/matplotlib.pyplot.md",
-    "pandas/MinMaxScaler.md",
-    "pandas/pandas的plot.md",
-    "pandas/划分数据.md",
-    "pandas/LabelEncoder.md",
     "pandas",
     "未命名.base",
     "未命名 1.base",
