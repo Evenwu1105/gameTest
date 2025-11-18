@@ -19,4 +19,4 @@
 - -m:匹配代码中的标签:@pytest.mark
 - -vs:不拦截代码中print语句以及出现详细信息
 - -lf:只上次失败的测试，若没有失败则全部执行
-- `--`html生成html测试报告
+- `--`html生成html测试报告 --html 路径/report.html 路径/test_01.py
