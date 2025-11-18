@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba4650d96ad8b531",
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GameTest/pandas/matplotlib.pyplot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "matplotlib.pyplot 的反向链接列表"
             }
           },
           {
@@ -182,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "295ad6d3c500fa10",
+  "active": "b2b0693c38d9b37f",
   "lastOpenFiles": [
+    "GameTest/Test.md",
+    "GameTest/requests.md",
+    "GameTest/可变关键字参数.md",
+    "GameTest/python数据类型-集合.md",
+    "GameTest/python中找json数据具体值.md",
+    "GameTest/pytest.md",
     "GameTest/pandas/matplotlib.pyplot.md",
     "GameTest/按游戏类型分类（测试核心场景差异）/休闲类（Casual）.md",
     "GameTest/按测试平台分类/移动平台（iOS Android）.md",
@@ -218,12 +227,6 @@
     "GameTest/网络测试.md",
     "GameTest/人工智能考证.md",
     "GameTest/开发者工具网页模仿弱网.md",
-    "GameTest/兼容性测试.md",
-    "GameTest/安全测试.md",
-    "GameTest/游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
-    "GameTest/游戏研发核心技术（测试需关注的技术点）/游戏研发核心技术（测试需关注的技术点）.md",
-    "GameTest/游戏测试-性能测试/Unity 3D.md",
-    "GameTest/游戏测试-性能测试/性能测试.md",
     "GameTest/未命名 1.base",
     "GameTest/未命名.base",
     "GameTest/安装包和依赖/clumsy-0.3-win64-a.zip",
