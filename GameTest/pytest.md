@@ -35,3 +35,10 @@ def teardown_***()
 
 ```
 pytest的夹具:fixture 是一种生成器
+```python
+@pytest.fixture
+def myFixture():
+	print('测试开始')
+	yield#表示暂停返回，作用类似于return
+	print('测试结束')
+```
