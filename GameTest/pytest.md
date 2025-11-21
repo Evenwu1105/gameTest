@@ -75,3 +75,9 @@ def test_4(myFixture2, myFixture1):
     assert 1 == 1
 ```
 
+夹具的级别，通过函数定义时使用的装饰器带scope参数来定义该夹具的等级
+```python
+#函数级也用于方法(默认)
+@pytest.fixture(scope='function')
+#类级，用于测试类
+```
