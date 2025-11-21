@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "游戏测试专项.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "游戏测试专项"
             }
           }
         ],
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "游戏测试专项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Test 的反向链接列表"
+              "title": "游戏测试专项 的反向链接列表"
             }
           },
           {
@@ -236,12 +236,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "游戏测试专项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Test 的出链列表"
+              "title": "游戏测试专项 的出链列表"
             }
           },
           {
@@ -265,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
+                "file": "游戏测试专项.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Test 的大纲"
+              "title": "游戏测试专项 的大纲"
             }
           }
         ],
@@ -312,8 +312,8 @@
   },
   "active": "b605374ff248e150",
   "lastOpenFiles": [
-    "requests.md",
     "Test.md",
+    "requests.md",
     "clumsy.md",
     "pytest.md",
     "自动化测试.md",
