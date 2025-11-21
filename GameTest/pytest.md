@@ -42,3 +42,36 @@ def myFixture():
 	yield#表示暂停返回，作用类似于return,回来后执行下半代码
 	print('测试结束')
 ```
+夹具的使用方式为参数
+多种夹具一起使用，参数在左边靠前的为先执行（包在外面）
+```python
+@pytest.fixture
+def myFixture1():   
+# 定义一个函数，使用@pytest.fixture装饰器来装饰，则该函数就是一个自定义夹具，具有前后置的作用
+    print('夹具1开始')   # yield之前的代码就是前置
+    yield   
+    # 使用关键字yield实现前置内容执行结束后暂停，转去执行具体测试，具体测试完成后，再返回到此继续执行后续代码，实现后置内容。
+    print('夹具1结束')   # yield之后的代码就是后置
+
+@pytest.fixture
+def myFixture2():
+    print('夹具2开始')
+    yield
+    print('夹具2结束')
+
+class Test1:
+    def test_1(self,myFixture1):
+        print('test1')
+        assert 1 == 1
+    def test_2(self, myFixture2):
+        print('test2')
+        assert 1 == 1
+def test_3(myFixture1, myFixture2):
+    print('test3')
+    assert 1 == 1
+
+def test_4(myFixture2, myFixture1):
+    print('test3')
+    assert 1 == 1
+```
+
