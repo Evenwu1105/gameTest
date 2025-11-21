@@ -88,7 +88,7 @@ def test_4(myFixture2, myFixture1):
 测试用例参数化
 ```python
 @pytest.mark.parametrize('x,y,z',[(1,2,3),(3,4,5)])#列表中的数为元组
-def test01(self,x,y,z)
+def test01(self,x,y,z):
 	res = x % y
 	assert res == z
 ```
