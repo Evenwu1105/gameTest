@@ -25,5 +25,8 @@
 
 ```python
 def setup_function():#函数级前置方法
+def setup_method():
+
+def setup_class():
 
 ```
