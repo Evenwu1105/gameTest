@@ -92,3 +92,30 @@ def test01(self,x,y,z):
 	res = x % y
 	assert res == z
 ```
+
+pytest用excel表的数据进行测试
+```python
+import openpyxl,os  
+  
+def get_mod_data_form_xlsx():  
+    #os找路径  
+    f = os.path.join(os.path.dirname(__file__),'data','test_openxls.xlsx')  
+  
+    wb = openpyxl.load_workbook(f)  
+  
+    sh= wb['Sheet1']  
+    result = []  
+    for i in range(2,sh.max_row+1):  
+        atuple = (sh.cell(i,1).value,sh.cell(i,2).value,sh.cell(i,3).value)  
+        result.append(atuple)  
+    wb.close()  
+    return result
+```
+
+```python
+@pytest.mark.parametrize('x,y,z', get_mod_data_form_xlsx())  
+def test03(x, y, z):  
+    res = x%y  
+    assert res == z
+```
+
