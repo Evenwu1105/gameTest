@@ -34,3 +34,4 @@ def setup_module():#模块级前置方法所有类，函数，方法的前置
 def teardown_***()
 
 ```
+pytest的夹具:fixture 是一种生成器
