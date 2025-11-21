@@ -28,6 +28,9 @@ def setup_function():#函数级前置方法
 def setup_method():
 
 def setup_class():#与unittest setUpClass一样
-def setup_module():#模块级前置方法所有类
+def setup_module():#模块级前置方法所有类，函数，方法的前置
+
+#后置
+def 
 
 ```
