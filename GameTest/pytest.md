@@ -27,6 +27,7 @@
 def setup_function():#函数级前置方法
 def setup_method():
 
-def setup_class():
+def setup_class():#与unittest setUpClass一样
+def setup_module():#模块级前置方法所有类
 
 ```
