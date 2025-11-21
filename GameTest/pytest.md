@@ -119,3 +119,27 @@ def test03(x, y, z):
     assert res == z
 ```
 
+查询数据库数据进行测试
+```python
+import pymysql  
+  
+  
+def get_mod_data_from_mysql():  
+    with pymysql.connect(host='localhost',  
+                         user='root',  
+                         password='123456',  
+                         db='test_mod',  
+                         charset='utf8',  
+                         port=3306) as con:  
+        cursor = con.cursor()  
+        cursor.execute("select * from test_mod")  
+        result = cursor.fetchall()  
+        return list(result)
+```
+
+```python
+@pytest.mark.parametrize('x,y,z',get_mod_data_from_mysql())  
+def test04(x, y, z):  
+    res = x%y  
+    assert res==z
+```
