@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "appium.md",
+                "file": "游戏测试用例详细编写.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "appium"
+              "title": "游戏测试用例详细编写"
             }
           }
         ],
@@ -204,10 +204,11 @@
   },
   "active": "766e6f4d90010a22",
   "lastOpenFiles": [
-    "人工智能考证.md",
-    "appium.md",
-    "游戏测试-性能测试/服务端性能测试.md",
+    "自动化测试.md",
     "pytest.md",
+    "appium.md",
+    "人工智能考证.md",
+    "游戏测试-性能测试/服务端性能测试.md",
     "未命名",
     "python数据类型-集合.md",
     "unittest.md",
@@ -217,7 +218,6 @@
     "python中找json数据具体值.md",
     "游戏测试专项.md",
     "clumsy.md",
-    "自动化测试.md",
     "可变关键字参数.md",
     "网络测试.md",
     "开发者工具网页模仿弱网.md",
