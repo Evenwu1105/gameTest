@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameTest/airtest.md",
+                "file": "GameTest/游戏测试用例详细编写.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "airtest"
+              "title": "游戏测试用例详细编写"
             }
           }
         ]
@@ -200,6 +200,15 @@
   },
   "active": "7d861314510b91e6",
   "lastOpenFiles": [
+    "0d55b1171bdbd84462df5ed131d7b322.png",
+    "1d7d09bdb2f4f199e2e8c852d3bc5b99.png",
+    "GameTest/开发者工具网页模仿弱网.md",
+    "GameTest/兼容性测试.md",
+    "GameTest/安全测试.md",
+    "GameTest/airtest.md",
+    "GameTest/游戏测试用例详细编写.md",
+    "GameTest/unittest.md",
+    "GameTest/appium.md",
     "Pasted image 20251118205502.png",
     "Pasted image 20251118205343.png",
     "Pasted image 20251118205245.png",
@@ -209,8 +218,6 @@
     "Pasted image 20251118204813.png",
     "Pasted image 20251118204705.png",
     "Pasted image 20251118204631.png",
-    "Pasted image 20251118204629 1.png",
-    "Pasted image 20251118204629.png",
     "GameTest/clumsy.md",
     "GameTest/requests.md",
     "GameTest/Test.md",
@@ -229,13 +236,6 @@
     "GameTest/pandas/pandas的plot和matplotlib.pyplot的区别.md",
     "GameTest/pandas/pandas的plot.md",
     "GameTest/pandas/MinMaxScaler.md",
-    "GameTest/pandas/LabelEncoder和MinMaxScaler的区别.md",
-    "GameTest/pandas/LabelEncoder.md",
-    "GameTest/pandas/drop_duplicates和duplicated的区别.md",
-    "GameTest/pandas/划分数据.md",
-    "GameTest/游戏测试专项.md",
-    "GameTest/airtest.md",
-    "GameTest/人工智能考证.md",
     "GameTest/未命名 1.base",
     "GameTest/未命名.base",
     "GameTest/安装包和依赖/clumsy-0.3-win64-a.zip",
