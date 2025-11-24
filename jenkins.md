@@ -12,3 +12,9 @@ docker exec -it jenkins /bin/bash
 ```bash
 exit  # 输入后按回车，会回到 Windows 终端（提示符变成 C:\Users\Evenwu> 之类）
 ```
+用 `root` 权限重新进入 Jenkins 容器（关键！加 `--user root` 参数）：
+
+```bash
+# 替换 jenkins 为你的容器名（docker ps 可查看）
+docker exec -it --user root jenkins /bin/bash
+```
