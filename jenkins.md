@@ -3,3 +3,8 @@
 docker run -d -p 8080:8080 -p 50000:50000 --name jenkins swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/jenkins/jenkins:lts-jdk17
 # 打开网页：localhost:8080
 
+打开 Windows 终端，进入 Jenkins 容器命令行：
+
+```bash
+docker exec -it jenkins /bin/bash
+```
