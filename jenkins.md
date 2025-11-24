@@ -8,3 +8,7 @@ docker run -d -p 8080:8080 -p 50000:50000 --name jenkins swr.cn-north-4.myhuawei
 ```bash
 docker exec -it jenkins /bin/bash
 ```
+
+```bash
+exit  # 输入后按回车，会回到 Windows 终端（提示符变成 C:\Users\Evenwu> 之类）
+```
