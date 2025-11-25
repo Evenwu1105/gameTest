@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能考证.md",
+                "file": "游戏测试-性能测试/客户端性能测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "人工智能考证"
+              "title": "客户端性能测试"
             }
           }
         ]
@@ -189,12 +189,13 @@
   },
   "active": "18031f8e03d8fe66",
   "lastOpenFiles": [
+    "pandas/划分数据.md",
+    "人工智能考证.md",
     "可变关键字参数.md",
     "内存泄漏.md",
     "游戏测试用例详细编写.md",
     "游戏测试专项.md",
     "网络测试.md",
-    "人工智能考证.md",
     "兼容性测试.md",
     "开发者工具网页模仿弱网.md",
     "安全测试.md",
@@ -228,7 +229,6 @@
     "按游戏类型分类（测试核心场景差异）/休闲类（Casual）.md",
     "按游戏类型分类（测试核心场景差异）",
     "按测试平台分类/云游戏平台（Stadia  GeForceNow  腾讯云游戏）.md",
-    "按测试平台分类/移动平台（iOS Android）.md",
     "按测试平台分类",
     "picture_resource",
     "pandas",
