@@ -41,7 +41,7 @@ create procedure add_user(yhm char(20),startNo int,stopNo int,mm char(20))
 begin
 	declare i int default startNo;
 	while i<=stopNo do
-		insert into ecs_users()
+		insert into ecs_users(email,)
 			values();
 		set i = i+1;
 		
