@@ -41,13 +41,17 @@ create procedure add_user(yhm char(20),startNo int,stopNo int,mm char(20))
 begin
 	declare i int default startNo;
 	while i<=stopNo do
-		insert into ecs_users(email,user_name,)
-			values();
+		insert into ecs_users(email,user_name,password,alias,msn,qq,office_phone,home_phone,mobile_phone,credit_line)
+			values(concat(yhm,'_',i,'@ec.com'), concat(yhm,'_',i), 
+      md5(mm),'','','','','','',0);
 		set i = i+1;
 		
 end $$
 
 ```
+
+
+
 
 
 
