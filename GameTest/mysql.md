@@ -48,6 +48,7 @@ begin
 		
 end $$
 
+call add_user('test_312',100,300,'123456')
 ```
 
 
