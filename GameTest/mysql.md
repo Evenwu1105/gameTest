@@ -36,7 +36,7 @@ end while;
 
 例:
 ```mysql
-delimeter $$
+delimiter $$
 create procedure add_user(yhm char(20),startNo int,stopNo int,mm char(20))
 begin
 	declare i int default startNo;
@@ -45,7 +45,7 @@ begin
 			values(concat(yhm,'_',i,'@ec.com'), concat(yhm,'_',i), 
       md5(mm),'','','','','','',0);
 		set i = i+1;
-		
+	END while	
 end $$
 
 call add_user('test_312',100,300,'123456')
