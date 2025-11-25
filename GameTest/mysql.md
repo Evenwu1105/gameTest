@@ -34,6 +34,21 @@ while 关于变量的条件判断 do
 end while;
 ```
 
+例:
+```mysql
+delimeter $$
+create procedure add_user(yhm char(20),startNo int,stopNo int,mm char(20))
+begin
+	declare i int default startNo;
+	while i<=stopNo do
+		insert into ecs_users()
+			values();
+		set i = i+1;
+		
+end $$
+
+```
+
 
 
 
