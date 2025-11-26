@@ -11,12 +11,14 @@
             "id": "95921a518dd5e4c9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "picture_resource/exported_image.png"
+                "file": "clumsy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "exported_image"
+              "icon": "lucide-file",
+              "title": "clumsy"
             }
           }
         ]
@@ -187,14 +189,20 @@
   },
   "active": "95921a518dd5e4c9",
   "lastOpenFiles": [
-    "jenkins.md",
+    "Pasted image 20251126111441.png",
+    "UDP.md",
+    "网络测试.md",
+    "人工智能考证.md",
+    "开发者工具网页模仿弱网.md",
+    "可变关键字参数.md",
+    "picture_resource/Pasted image 20251117144420.png",
     "picture_resource/exported_image.png",
+    "picture_resource/11554b4c3e11e4f0229bdbb80f3fc83a.png",
+    "游戏测试用例详细编写.md",
+    "jenkins.md",
     "MD5.md",
     "mysql.md",
-    "picture_resource/11554b4c3e11e4f0229bdbb80f3fc83a.png",
     "兼容性测试.md",
-    "游戏测试用例详细编写.md",
-    "网络测试.md",
     "clumsy.md",
     "游戏测试-性能测试/阿里EMAS.md",
     "游戏测试-性能测试/客户端性能测试.md",
@@ -202,18 +210,14 @@
     "游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
     "picture_resource/Pasted image 20251117143455.png",
     "pandas/划分数据.md",
-    "人工智能考证.md",
-    "可变关键字参数.md",
     "内存泄漏.md",
     "游戏测试专项.md",
-    "开发者工具网页模仿弱网.md",
     "安全测试.md",
     "picture_resource/Pasted image 20251117143501.png",
     "picture_resource/Pasted image 20251117143546.png",
     "picture_resource/Pasted image 20251117143602.png",
     "picture_resource/Pasted image 20251117143945.png",
     "picture_resource/Pasted image 20251117144103.png",
-    "picture_resource/Pasted image 20251117144420.png",
     "picture_resource/Pasted image 20251117145643.png",
     "0d55b1171bdbd84462df5ed131d7b322.png.md",
     "自动化测试.md",
@@ -224,8 +228,6 @@
     "游戏测试-性能测试/Unity 3D.md",
     "游戏测试-性能测试",
     "按游戏类型分类（测试核心场景差异）/策略类（SLG）.md",
-    "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
-    "按游戏类型分类（测试核心场景差异）/竞技类（MOBA  格斗）.md",
     "按游戏类型分类（测试核心场景差异）",
     "按测试平台分类",
     "picture_resource",
