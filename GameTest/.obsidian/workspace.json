@@ -11,14 +11,12 @@
             "id": "95921a518dd5e4c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "jenkins.md",
-                "mode": "source",
-                "source": false
+                "file": "picture_resource/exported_image.png"
               },
-              "icon": "lucide-file",
-              "title": "jenkins"
+              "icon": "lucide-image",
+              "title": "exported_image"
             }
           }
         ]
@@ -189,6 +187,8 @@
   },
   "active": "95921a518dd5e4c9",
   "lastOpenFiles": [
+    "jenkins.md",
+    "picture_resource/exported_image.png",
     "MD5.md",
     "mysql.md",
     "picture_resource/11554b4c3e11e4f0229bdbb80f3fc83a.png",
@@ -215,7 +215,6 @@
     "picture_resource/Pasted image 20251117144103.png",
     "picture_resource/Pasted image 20251117144420.png",
     "picture_resource/Pasted image 20251117145643.png",
-    "picture_resource/Pasted image 20251117145741.png",
     "0d55b1171bdbd84462df5ed131d7b322.png.md",
     "自动化测试.md",
     "游戏研发核心技术（测试需关注的技术点）/游戏研发核心技术（测试需关注的技术点）.md",
