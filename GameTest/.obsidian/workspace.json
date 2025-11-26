@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自动化测试.md",
+                "file": "MD5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自动化测试"
+              "title": "MD5"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,44 +188,44 @@
   },
   "active": "33c7ee48775d7c72",
   "lastOpenFiles": [
-    "游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
-    "自动化测试.md",
-    "游戏测试-性能测试/服务端性能测试.md",
-    "游戏测试-性能测试/客户端性能测试.md",
-    "游戏测试-性能测试/性能测试.md",
-    "clumsy.md",
     "Pasted image 20251126111615.png",
-    "Pasted image 20251126111441.png",
+    "unittest.md",
     "UDP.md",
-    "网络测试.md",
-    "人工智能考证.md",
+    "requests.md",
+    "python中找json数据具体值.md",
+    "python数据类型-集合.md",
+    "pytest.md",
+    "Pasted image 20251126111441.png",
+    "mysql.md",
+    "MD5.md",
+    "clumsy.md",
+    "airtest.md",
+    "游戏测试-性能测试/服务端性能测试.md",
+    "游戏测试-性能测试/阿里EMAS.md",
+    "游戏研发团队与测试角色（测试在团队中的定位）/游戏研发团队与测试角色（测试在团队中的定位）.md",
+    "picture_resource/Pasted image 20251117152818.png",
+    "安全测试.md",
+    "兼容性测试.md",
     "开发者工具网页模仿弱网.md",
     "可变关键字参数.md",
+    "内存泄漏.md",
+    "人工智能考证.md",
+    "网络测试.md",
+    "游戏测试专项.md",
+    "自动化测试.md",
+    "appium.md",
+    "jenkins.md",
+    "游戏测试用例详细编写.md",
     "picture_resource/Pasted image 20251117144420.png",
     "picture_resource/exported_image.png",
     "picture_resource/11554b4c3e11e4f0229bdbb80f3fc83a.png",
-    "游戏测试用例详细编写.md",
-    "jenkins.md",
-    "MD5.md",
-    "mysql.md",
-    "兼容性测试.md",
-    "游戏测试-性能测试/阿里EMAS.md",
     "picture_resource/Pasted image 20251117143455.png",
-    "pandas/划分数据.md",
-    "内存泄漏.md",
-    "游戏测试专项.md",
-    "安全测试.md",
     "picture_resource/Pasted image 20251117143501.png",
     "picture_resource/Pasted image 20251117143546.png",
     "picture_resource/Pasted image 20251117143602.png",
-    "picture_resource/Pasted image 20251117143945.png",
-    "0d55b1171bdbd84462df5ed131d7b322.png.md",
-    "游戏研发核心技术（测试需关注的技术点）/游戏研发核心技术（测试需关注的技术点）.md",
     "游戏研发核心技术（测试需关注的技术点）",
     "游戏研发团队与测试角色（测试在团队中的定位）",
-    "游戏测试-性能测试/Unity 3D.md",
     "游戏测试-性能测试",
-    "按游戏类型分类（测试核心场景差异）/策略类（SLG）.md",
     "按游戏类型分类（测试核心场景差异）",
     "按测试平台分类",
     "picture_resource",
