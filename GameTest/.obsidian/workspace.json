@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "238a7cb0a7a70cb3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "11554b4c3e11e4f0229bdbb80f3fc83a.png"
-              },
-              "icon": "lucide-image",
-              "title": "11554b4c3e11e4f0229bdbb80f3fc83a"
-            }
-          },
-          {
             "id": "95921a518dd5e4c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD5.md",
+                "file": "jenkins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MD5"
+              "title": "jenkins"
             }
           }
         ]
@@ -199,15 +187,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "238a7cb0a7a70cb3",
+  "active": "95921a518dd5e4c9",
   "lastOpenFiles": [
+    "MD5.md",
+    "mysql.md",
+    "picture_resource/11554b4c3e11e4f0229bdbb80f3fc83a.png",
     "兼容性测试.md",
-    "11554b4c3e11e4f0229bdbb80f3fc83a.png",
     "游戏测试用例详细编写.md",
     "网络测试.md",
     "clumsy.md",
-    "mysql.md",
-    "MD5.md",
     "游戏测试-性能测试/阿里EMAS.md",
     "游戏测试-性能测试/客户端性能测试.md",
     "游戏测试-性能测试/性能测试.md",
