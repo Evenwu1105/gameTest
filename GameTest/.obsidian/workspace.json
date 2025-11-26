@@ -11,14 +11,12 @@
             "id": "238a7cb0a7a70cb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "网络测试.md",
-                "mode": "source",
-                "source": false
+                "file": "11554b4c3e11e4f0229bdbb80f3fc83a.png"
               },
-              "icon": "lucide-file",
-              "title": "网络测试"
+              "icon": "lucide-image",
+              "title": "11554b4c3e11e4f0229bdbb80f3fc83a"
             }
           },
           {
@@ -203,6 +201,10 @@
   },
   "active": "238a7cb0a7a70cb3",
   "lastOpenFiles": [
+    "兼容性测试.md",
+    "11554b4c3e11e4f0229bdbb80f3fc83a.png",
+    "游戏测试用例详细编写.md",
+    "网络测试.md",
     "clumsy.md",
     "mysql.md",
     "MD5.md",
@@ -215,10 +217,7 @@
     "人工智能考证.md",
     "可变关键字参数.md",
     "内存泄漏.md",
-    "游戏测试用例详细编写.md",
     "游戏测试专项.md",
-    "网络测试.md",
-    "兼容性测试.md",
     "开发者工具网页模仿弱网.md",
     "安全测试.md",
     "picture_resource/Pasted image 20251117143501.png",
@@ -229,7 +228,6 @@
     "picture_resource/Pasted image 20251117144420.png",
     "picture_resource/Pasted image 20251117145643.png",
     "picture_resource/Pasted image 20251117145741.png",
-    "picture_resource/Pasted image 20251117151325.png",
     "0d55b1171bdbd84462df5ed131d7b322.png.md",
     "自动化测试.md",
     "游戏研发核心技术（测试需关注的技术点）/游戏研发核心技术（测试需关注的技术点）.md",
@@ -241,7 +239,6 @@
     "按游戏类型分类（测试核心场景差异）/策略类（SLG）.md",
     "按游戏类型分类（测试核心场景差异）/动作类（ACT）.md",
     "按游戏类型分类（测试核心场景差异）/竞技类（MOBA  格斗）.md",
-    "按游戏类型分类（测试核心场景差异）/按游戏类型分类（测试核心场景差异）.md",
     "按游戏类型分类（测试核心场景差异）",
     "按测试平台分类",
     "picture_resource",
