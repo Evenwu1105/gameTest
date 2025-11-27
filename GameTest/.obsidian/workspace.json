@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "MD5"
             }
+          },
+          {
+            "id": "e51888cfd061c58b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33c7ee48775d7c72",
+  "active": "e51888cfd061c58b",
   "lastOpenFiles": [
     "Pasted image 20251126111615.png",
     "unittest.md",
