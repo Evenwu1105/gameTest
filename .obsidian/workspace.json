@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "docker"
             }
+          },
+          {
+            "id": "cf327eb249735af6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deeprouter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +101,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,8 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56781235ed43c6ad",
+  "active": "5a806f90db68b89d",
   "lastOpenFiles": [
+    "GameTest/提示词/高质量提示词（Prompt）编写指南：结构化与模块化框架.md",
+    "GameTest/提示词",
     "GameTest/jenkins.md",
     "docker.md",
     "GameTest/picture_resource/exported_image.png",
@@ -250,7 +265,6 @@
     "GameTest/按测试平台分类/主机平台（PS5 XboxSeries NS）.md",
     "GameTest/按测试平台分类/PC 平台（Windows Mac Linux）.md",
     "GameTest/按测试平台分类/云游戏平台（Stadia  GeForceNow  腾讯云游戏）.md",
-    "GameTest/按测试平台分类/移动平台（iOS Android）.md",
     "Pasted image 20251118205502.png",
     "Pasted image 20251118205343.png",
     "GameTest/未命名 1.base",
@@ -259,7 +273,6 @@
     "GameTest/安装包和依赖",
     "GameTest/picture_resource",
     "GameTest/pandas",
-    "新建文本文档.txt",
-    "GameTest/游戏研发核心技术（测试需关注的技术点）"
+    "新建文本文档.txt"
   ]
 }
