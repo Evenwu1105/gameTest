@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameTest/面试/简历编写.md",
-                "mode": "preview",
+                "file": "GameTest/mysql.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "简历编写"
+              "title": "mysql"
             }
           },
           {
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "简",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,6 +230,7 @@
   "active": "c4d302b187afb5f0",
   "lastOpenFiles": [
     "GameTest/面试/简历编写.md",
+    "GameTest/面试回答技巧.md",
     "GameTest/面试",
     "GameTest/jenkins.md",
     "GameTest/按测试平台分类/按测试平台分类.md",
@@ -265,7 +266,6 @@
     "GameTest/游戏测试-性能测试/服务端性能测试.md",
     "GameTest/游戏测试-性能测试/阿里EMAS.md",
     "GameTest/提示词/高质量提示词（Prompt）编写指南：结构化与模块化框架.md",
-    "GameTest/按游戏类型分类（测试核心场景差异）/休闲类（Casual）.md",
     "GameTest/api_ai_xhs",
     "GameTest/提示词",
     "GameTest/git",
