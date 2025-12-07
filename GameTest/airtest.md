@@ -12,4 +12,8 @@
 - ## 显示等待 ![[Pasted image 20251118205245.png]]
 - ## 断言![[Pasted image 20251118205343.png]]
 - ## 断言图标是否存在 ![[Pasted image 20251118205502.png]]
-- 
+- #### `Template()` 类（图像定位核心）
+
+`Template()` 是 Airtest 图像识别定位的核心类，用于定义 “图像模板”，框架会通过该模板在屏幕上匹配对应的元素位置。
+
+Airtest 核心 API（`from airtest.core.api import touch`），用于模拟设备的触摸操作（点击 / 长按）。
