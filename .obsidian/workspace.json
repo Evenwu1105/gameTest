@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +100,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4d302b187afb5f0",
+  "active": "d75a5c1550ec1835",
   "lastOpenFiles": [
     "GameTest/面试/简历编写.md",
     "GameTest/面试回答技巧.md",
