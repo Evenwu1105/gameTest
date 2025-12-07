@@ -19,3 +19,10 @@
 Airtest 核心 API（`from airtest.core.api import touch`），用于模拟设备的触摸操作（点击 / 长按）。
 
 降低阈值（如 `threshold=0.6`）；
+
+####  绝对像素坐标转相对坐标（手动计算）
+```python
+# 转换公式
+x_ratio = (x_pixel - screen_w/2) / (screen_w/2)
+y_ratio = (y_pixel - screen_h/2) / (screen_h/2)
+```
