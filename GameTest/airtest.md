@@ -17,3 +17,5 @@
 `Template()` 是 Airtest 图像识别定位的核心类，用于定义 “图像模板”，框架会通过该模板在屏幕上匹配对应的元素位置。
 
 Airtest 核心 API（`from airtest.core.api import touch`），用于模拟设备的触摸操作（点击 / 长按）。
+
+降低阈值（如 `threshold=0.6`）；
