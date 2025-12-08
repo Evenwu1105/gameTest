@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wireshark.md",
+                "file": "技术面,人事面准备.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wireshark"
+              "title": "技术面,人事面准备"
             }
           },
           {
@@ -201,6 +201,8 @@
   },
   "active": "e9a8b5d669e3681d",
   "lastOpenFiles": [
+    "wireshark.md",
+    "技术面,人事面准备.md",
     "面试/简历编写.md",
     "pandas/LabelEncoder.md",
     "游戏测试-性能测试/服务端性能测试.md",
@@ -208,7 +210,6 @@
     "游戏测试-性能测试/Unity 3D.md",
     "游戏测试-性能测试/性能测试.md",
     "提示词/高质量提示词（Prompt）编写指南：结构化与模块化框架.md",
-    "wireshark.md",
     "兼容性测试.md",
     "Pasted image 20251205101204.png",
     "面试回答技巧.md",
@@ -240,7 +241,6 @@
     "python中找json数据具体值.md",
     "python数据类型-集合.md",
     "clumsy.md",
-    "airtest.md",
     "游戏研发核心技术（测试需关注的技术点）",
     "游戏研发团队与测试角色（测试在团队中的定位）",
     "游戏测试-性能测试",
