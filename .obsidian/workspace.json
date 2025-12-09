@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameTest/airtest.md",
+                "file": "背包模块.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "airtest"
+              "title": "背包模块"
             }
           }
         ]
@@ -204,6 +204,7 @@
   "active": "dcf49306c18c9b3e",
   "lastOpenFiles": [
     "GameTest/技术面,人事面准备.md",
+    "GameTest/airtest.md",
     "战斗模块.md",
     "抽卡模块.md",
     "技能模块.md",
@@ -231,7 +232,6 @@
     "GameTest/python中找json数据具体值.md",
     "GameTest/python数据类型-集合.md",
     "GameTest/Pasted image 20251126111441.png",
-    "GameTest/airtest.md",
     "GameTest/picture_resource/Pasted image 20251130170633.png",
     "GameTest/picture_resource/Pasted image 20251118205245.png",
     "GameTest/picture_resource/Pasted image 20251118204813.png",

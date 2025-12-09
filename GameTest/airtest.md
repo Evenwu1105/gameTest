@@ -26,3 +26,5 @@ Airtest 核心 API（`from airtest.core.api import touch`），用于模拟设�
 x_ratio = (x_pixel - screen_w/2) / (screen_w/2)
 y_ratio = (y_pixel - screen_h/2) / (screen_h/2)
 ```
+
+可自定义封装
