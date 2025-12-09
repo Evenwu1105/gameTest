@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,11 +244,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7d4b02f1ef51ee4",
+  "active": "a35ae0ee581a7195",
   "lastOpenFiles": [
-    "GameTest/背包模块.md",
-    "测试点设计.md",
     "抽卡模块.md",
+    "测试点设计.md",
+    "GameTest/背包模块.md",
     "GameTest/技术面,人事面准备.md",
     "背包模块.md",
     "战斗模块.md",
