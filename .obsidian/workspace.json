@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,10 +258,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caad6425d5875ad6",
+  "active": "40c69a98a740af80",
   "lastOpenFiles": [
-    "GameTest/游戏测试-性能测试/性能测试.md",
     "GameTest/游戏测试-性能测试/客户端性能测试.md",
+    "GameTest/游戏测试-性能测试/性能测试.md",
     "GameTest/网络测试.md",
     "抽卡模块.md",
     "测试点设计.md",
