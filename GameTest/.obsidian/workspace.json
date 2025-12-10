@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f2ef17df8baca16",
+        "id": "db5f52a6c9deaff6",
         "type": "tabs",
         "children": [
           {
-            "id": "e9a8b5d669e3681d",
+            "id": "9aaadc74a6f163d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,10 +172,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5fb6a118e0c514a",
+  "active": "9aaadc74a6f163d5",
   "lastOpenFiles": [
-    "技术面,人事面准备.md",
+    "pandas/LabelEncoder和MinMaxScaler的区别.md",
+    "pandas/pandas命令.md",
+    "pandas/pandas的plot和matplotlib.pyplot的区别.md",
+    "pandas/pandas的plot.md",
+    "pandas/MinMaxScaler.md",
     "战斗模块.md",
+    "技术面,人事面准备.md",
     "背包模块.md",
     "个人介绍.md",
     "pytest.md",
@@ -206,14 +211,9 @@
     "picture_resource/Pasted image 20251118205049.png",
     "picture_resource/Pasted image 20251118204813.png",
     "docker.md",
-    "api_ai_xhs/deeprouter中转站的接口写法为-openai.md",
     "api_ai_xhs",
     "面试",
-    "MD5.md",
     "提示词",
-    "unittest.md",
-    "UDP.md",
-    "requests.md",
     "游戏研发核心技术（测试需关注的技术点）",
     "游戏研发团队与测试角色（测试在团队中的定位）",
     "游戏测试-性能测试",
