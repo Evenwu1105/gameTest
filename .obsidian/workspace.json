@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "UE蓝图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "UE蓝图"
             }
           },
           {
@@ -275,7 +275,7 @@
   "lastOpenFiles": [
     "GameTest/战斗模块.md",
     "GameTest/背包模块.md",
-    "未命名.md",
+    "UE蓝图.md",
     "抽卡模块.md",
     "GameTest/游戏测试-性能测试/客户端性能测试.md",
     "GameTest/游戏测试-性能测试/性能测试.md",
