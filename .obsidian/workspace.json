@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "a6dcdd6ca37b88af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LOD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LOD"
+            }
+          },
+          {
             "id": "40c69a98a740af80",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -271,17 +285,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffc11d3a5411fa55",
+  "active": "40c69a98a740af80",
   "lastOpenFiles": [
+    "测试点设计.md",
+    "抽卡模块.md",
+    "LOD.md",
+    "虚拟纹理.md",
+    "Mipmap.md",
+    "UE蓝图.md",
+    "GameTest/面试题.md",
     "Pasted image 20251210204640.png",
     "GameTest/战斗模块.md",
     "GameTest/背包模块.md",
-    "UE蓝图.md",
-    "抽卡模块.md",
     "GameTest/游戏测试-性能测试/客户端性能测试.md",
     "GameTest/游戏测试-性能测试/性能测试.md",
     "GameTest/网络测试.md",
-    "测试点设计.md",
     "GameTest/技术面,人事面准备.md",
     "背包模块.md",
     "战斗模块.md",
@@ -296,10 +314,7 @@
     "GameTest/appium.md",
     "GameTest/docker.md",
     "GameTest/mysql.md",
-    "2025-12-07.md",
-    "GameTest/wireshark.md",
     "GameTest/Pasted image 20251205101204.png",
-    "GameTest/面试/简历编写.md",
     "GameTest/面试",
     "GameTest/Pasted image 20251126111441.png",
     "GameTest/picture_resource/Pasted image 20251130170633.png",
@@ -309,7 +324,6 @@
     "GameTest/picture_resource/Pasted image 20251117152818.png",
     "GameTest/picture_resource/Pasted image 20251117145741.png",
     "GameTest/picture_resource/Pasted image 20251117143945.png",
-    "GameTest/picture_resource/Pasted image 20251117143455.png",
     "GameTest/api_ai_xhs",
     "GameTest/提示词",
     "GameTest/git",
