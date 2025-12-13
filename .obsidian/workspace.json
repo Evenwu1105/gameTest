@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameTest/光照.md",
+                "file": "GameTest/背包模块.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "光照"
+              "title": "背包模块"
             }
           },
           {
@@ -287,6 +287,7 @@
   },
   "active": "a6dcdd6ca37b88af",
   "lastOpenFiles": [
+    "GameTest/光照.md",
     "Pasted image 20251212144348.png",
     "Pasted image 20251212144315.png",
     "Pasted image 20251212143921.png",
@@ -297,8 +298,6 @@
     "Pasted image 20251212122155.png",
     "Pasted image 20251212122006.png",
     "Pasted image 20251212121950.png",
-    "Pasted image 20251212121941.png",
-    "GameTest/光照.md",
     "GameTest/UE蓝图.md",
     "GameTest/Mipmap.md",
     "GameTest/pytest.md",
