@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "e4b9d288aa14d78e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "识别图片-Resnet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "识别图片-Resnet"
+            }
+          },
+          {
             "id": "a78985ea5a749dcc",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "面试题"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +103,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,8 +200,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9aaadc74a6f163d5",
+  "active": "e4b9d288aa14d78e",
   "lastOpenFiles": [
+    "pandas/pandas命令.md",
+    "识别图片-Resnet.md",
+    "虚拟纹理.md",
+    "测试点设计.md",
+    "抽卡模块.md",
+    "技能模块.md",
+    "战斗模块 1.md",
+    "光照.md",
+    "picture_resource/Pasted image 20251212121318.png",
+    "picture_resource/Pasted image 20251212121132.png",
+    "picture_resource/Pasted image 20251210204640.png",
+    "picture_resource/Pasted image 20251205101204.png",
+    "picture_resource/Pasted image 20251126111615.png",
+    "picture_resource/Pasted image 20251126111441.png",
+    "UE蓝图.md",
+    "Mipmap.md",
+    "LOD.md",
     "人工智能考证.md",
     "战斗模块.md",
     "pandas/drop_duplicates和duplicated的区别.md",
@@ -195,7 +226,6 @@
     "pandas/划分数据.md",
     "背包模块.md",
     "pandas/LabelEncoder和MinMaxScaler的区别.md",
-    "pandas/pandas命令.md",
     "pandas/pandas的plot和matplotlib.pyplot的区别.md",
     "pandas/pandas的plot.md",
     "pandas/MinMaxScaler.md",
@@ -204,27 +234,11 @@
     "pytest.md",
     "wireshark.md",
     "面试/简历编写.md",
-    "pandas/LabelEncoder.md",
-    "游戏测试-性能测试/服务端性能测试.md",
-    "游戏测试-性能测试/阿里EMAS.md",
-    "游戏测试-性能测试/Unity 3D.md",
-    "游戏测试-性能测试/性能测试.md",
-    "提示词/高质量提示词（Prompt）编写指南：结构化与模块化框架.md",
-    "兼容性测试.md",
     "Pasted image 20251205101204.png",
-    "面试回答技巧.md",
     "未命名",
-    "mysql.md",
-    "游戏研发核心技术（测试需关注的技术点）/游戏研发核心技术（测试需关注的技术点）.md",
     "picture_resource/Pasted image 20251130170633.png",
     "picture_resource/Pasted image 20251124200237.png",
     "picture_resource/Pasted image 20251118205502.png",
-    "picture_resource/Pasted image 20251118205343.png",
-    "picture_resource/Pasted image 20251118205245.png",
-    "picture_resource/Pasted image 20251118205239.png",
-    "picture_resource/Pasted image 20251118205206.png",
-    "picture_resource/Pasted image 20251118205049.png",
-    "picture_resource/Pasted image 20251118204813.png",
     "api_ai_xhs",
     "面试",
     "提示词",
