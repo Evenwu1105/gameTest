@@ -12,3 +12,4 @@ print(data_cleaned['How do you describe your current level of fitness ?'].unique
 
 # 图片归一化
 - 对像素值进行归一化的处理
+- (最大值-最小值)/标准差
