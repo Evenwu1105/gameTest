@@ -95,4 +95,3 @@ data_cleaned.loc[:, 'Your age'] = data_cleaned['Your age'].astype(int)
 ```
 
 
-
