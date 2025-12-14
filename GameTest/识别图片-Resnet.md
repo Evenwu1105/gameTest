@@ -1,4 +1,4 @@
-# 模型加载 2分  
+# 模型加载
 ```python
 session = ort.InferenceSession('resnet.onnx')
 ```
