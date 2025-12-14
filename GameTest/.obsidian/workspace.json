@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "识别图片-Resnet.md",
+                "file": "pandas/LabelEncoder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "识别图片-Resnet"
+              "title": "LabelEncoder"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pandas",
+                "query": "归一化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,8 +203,8 @@
   },
   "active": "e4b9d288aa14d78e",
   "lastOpenFiles": [
-    "pandas/pandas命令.md",
     "识别图片-Resnet.md",
+    "pandas/pandas命令.md",
     "虚拟纹理.md",
     "测试点设计.md",
     "抽卡模块.md",
