@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -285,8 +285,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6dcdd6ca37b88af",
+  "active": "40c69a98a740af80",
   "lastOpenFiles": [
+    "GameTest/背包模块.md",
+    "GameTest/识别图片-Resnet.md",
     "GameTest/光照.md",
     "Pasted image 20251212144348.png",
     "Pasted image 20251212144315.png",
@@ -309,7 +311,6 @@
     "GameTest/抽卡模块.md",
     "GameTest/面试题.md",
     "GameTest/战斗模块.md",
-    "GameTest/背包模块.md",
     "GameTest/游戏测试-性能测试/性能测试.md",
     "GameTest/网络测试.md",
     "GameTest/技术面,人事面准备.md",
