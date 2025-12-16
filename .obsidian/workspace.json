@@ -25,10 +25,12 @@
             "id": "a6dcdd6ca37b88af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "image",
+              "state": {
+                "file": "GameTest/Pasted image 20251212144348.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251212144348"
             }
           },
           {
@@ -51,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rpg 和平精英.md",
+                "file": "GameTest/rpg 和平精英.md",
                 "mode": "source",
                 "source": false
               },
@@ -269,24 +271,24 @@
   },
   "active": "a6dcdd6ca37b88af",
   "lastOpenFiles": [
+    "GameTest/Pasted image 20251212122155.png",
+    "GameTest/rpg 和平精英.md",
     "GameTest/战斗模块.md",
     "GameTest/战斗模块 1.md",
     "GameTest/背包模块.md",
     "GameTest/抽卡模块.md",
-    "rpg 和平精英.md",
     "GameTest/UE蓝图.md",
     "GameTest/识别图片-Resnet.md",
     "GameTest/光照.md",
-    "Pasted image 20251212144348.png",
-    "Pasted image 20251212144315.png",
-    "Pasted image 20251212143921.png",
-    "Pasted image 20251212143848.png",
-    "Pasted image 20251212122304.png",
-    "Pasted image 20251212122239.png",
-    "Pasted image 20251212122205.png",
-    "Pasted image 20251212122155.png",
-    "Pasted image 20251212122006.png",
-    "Pasted image 20251212121950.png",
+    "GameTest/Pasted image 20251212144348.png",
+    "GameTest/Pasted image 20251212144315.png",
+    "GameTest/Pasted image 20251212143921.png",
+    "GameTest/Pasted image 20251212143848.png",
+    "GameTest/Pasted image 20251212122304.png",
+    "GameTest/Pasted image 20251212122239.png",
+    "GameTest/Pasted image 20251212122205.png",
+    "GameTest/Pasted image 20251212122006.png",
+    "GameTest/Pasted image 20251212121950.png",
     "GameTest/Mipmap.md",
     "GameTest/pytest.md",
     "GameTest/UDP.md",
@@ -304,7 +306,6 @@
     "GameTest/airtest.md",
     "GameTest/技能模块.md",
     "GameTest/安全测试.md",
-    "GameTest/兼容性测试.md",
     "GameTest/面试",
     "GameTest/api_ai_xhs",
     "GameTest/提示词",
