@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameTest/背包模块.md",
+                "file": "GameTest/战斗模块.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "背包模块"
+              "title": "战斗模块"
             }
           },
           {
@@ -89,8 +89,7 @@
               "title": "客户端性能测试"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,18 +268,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6dcdd6ca37b88af",
+  "active": "a35ae0ee581a7195",
   "lastOpenFiles": [
+    "GameTest/背包模块.md",
+    "GameTest/Pasted image 20251212144348.png",
+    "GameTest/抽卡模块.md",
     "GameTest/Pasted image 20251212122155.png",
     "GameTest/rpg 和平精英.md",
     "GameTest/战斗模块.md",
     "GameTest/战斗模块 1.md",
-    "GameTest/背包模块.md",
-    "GameTest/抽卡模块.md",
     "GameTest/UE蓝图.md",
     "GameTest/识别图片-Resnet.md",
     "GameTest/光照.md",
-    "GameTest/Pasted image 20251212144348.png",
     "GameTest/Pasted image 20251212144315.png",
     "GameTest/Pasted image 20251212143921.png",
     "GameTest/Pasted image 20251212143848.png",
