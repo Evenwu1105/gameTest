@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE5-Chaos物理引擎.md",
+                "file": "UE5-Chaos物理引擎—布料系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UE5-Chaos物理引擎"
+              "title": "UE5-Chaos物理引擎—布料系统"
             }
           },
           {
@@ -217,7 +217,7 @@
   "active": "30f4afffdc7eaacf",
   "lastOpenFiles": [
     "抽卡模块.md",
-    "UE5-Chaos物理引擎.md",
+    "UE5-Chaos物理引擎—布料系统.md",
     "背包模块.md",
     "pandas/LabelEncoder.md",
     "pandas/drop_duplicates和duplicated的区别.md",
