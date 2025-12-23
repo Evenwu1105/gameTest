@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pandas/LabelEncoder.md",
+                "file": "背包模块.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LabelEncoder"
+              "title": "背包模块"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "背包",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,6 +203,7 @@
   },
   "active": "e4b9d288aa14d78e",
   "lastOpenFiles": [
+    "pandas/LabelEncoder.md",
     "pandas/drop_duplicates和duplicated的区别.md",
     "pandas/划分数据.md",
     "UDP.md",
@@ -237,7 +239,6 @@
     "Pasted image 20251212122155.png",
     "游戏测试-性能测试/客户端性能测试.md",
     "wireshark.md",
-    "pandas/LabelEncoder.md",
     "未命名",
     "api_ai_xhs",
     "面试",
