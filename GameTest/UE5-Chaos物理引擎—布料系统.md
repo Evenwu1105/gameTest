@@ -6,3 +6,4 @@ UE5（Unreal Engine 5）中的 USD，核心是指**通用场景描述（Universa
 remesh能够使用lod--以接口调用
 
 为什么要用多个框来表示一个属性
+权重灵活分别给不同部位
