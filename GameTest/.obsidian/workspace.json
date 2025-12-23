@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,8 +214,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a78985ea5a749dcc",
+  "active": "30f4afffdc7eaacf",
   "lastOpenFiles": [
+    "面试题.md",
     "UE5-Chaos物理引擎—布料系统.md",
     "抽卡模块.md",
     "背包模块.md",
@@ -251,7 +252,6 @@
     "Pasted image 20251212122239.png",
     "Pasted image 20251212122205.png",
     "Pasted image 20251212122155.png",
-    "游戏测试-性能测试/客户端性能测试.md",
     "未命名",
     "api_ai_xhs",
     "面试",
