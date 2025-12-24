@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameTest/面试题.md",
+                "file": "GameTest/pandas/pandas命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面试题"
+              "title": "pandas命令"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pandas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,8 +270,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a806f90db68b89d",
+  "active": "caad6425d5875ad6",
   "lastOpenFiles": [
+    "GameTest/pandas/pandas的plot和matplotlib.pyplot的区别.md",
+    "GameTest/pandas/pandas的plot.md",
+    "GameTest/pandas/matplotlib.pyplot.md",
+    "GameTest/人工智能考证.md",
+    "GameTest/提示词/高质量提示词（Prompt）编写指南：结构化与模块化框架.md",
+    "GameTest/面试题.md",
     "GameTest/UE5-Chaos物理引擎—布料系统.md",
     "GameTest/背包模块.md",
     "GameTest/游戏测试-性能测试/客户端性能测试.md",
@@ -298,16 +304,10 @@
     "GameTest/UDP.md",
     "GameTest/虚拟纹理.md",
     "GameTest/LOD.md",
-    "GameTest/面试题.md",
     "GameTest/游戏测试-性能测试/性能测试.md",
     "GameTest/网络测试.md",
     "GameTest/技术面,人事面准备.md",
     "背包模块.md",
-    "GameTest/游戏测试用例详细编写.md",
-    "GameTest/个人介绍.md",
-    "GameTest/airtest.md",
-    "GameTest/技能模块.md",
-    "GameTest/安全测试.md",
     "GameTest/面试",
     "GameTest/api_ai_xhs",
     "GameTest/提示词",

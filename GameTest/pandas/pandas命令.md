@@ -95,3 +95,18 @@ data_cleaned.loc[:, 'Your age'] = data_cleaned['Your age'].astype(int)
 ```
 
 
+# 1. 传感器数据统计
+
+# 对传感器类型进行分组，并计算每个组的数据数量和平均值 3 分
+
+sensor_stats = data.groupby('SensorType')['Value'].agg(['count','mean'])
+
+//按照 'SensorType' 列的值进行分组，再对分组后的数据中'Value'值进行聚
+
+合操作，计算其数量和平均值，并将结果赋值给变量 sensor_stats。
+
+agg 是一个非常强大的函数，用于对数据进行聚合操作。
+agg(['count', 'mean']) 是一个具体的用法，表示对数据应用多个聚合函数（count 和 mean）。
+
+count：计算非空值的数量。它会忽略列中的 NaN 值。
+mean：计算平均值。它也会忽略列中的 NaN 值。
