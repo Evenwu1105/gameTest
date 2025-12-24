@@ -143,7 +143,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -269,8 +270,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caad6425d5875ad6",
+  "active": "5a806f90db68b89d",
   "lastOpenFiles": [
+    "GameTest/UE5-Chaos物理引擎—布料系统.md",
     "GameTest/背包模块.md",
     "GameTest/游戏测试-性能测试/客户端性能测试.md",
     "GameTest/测试点设计.md",
