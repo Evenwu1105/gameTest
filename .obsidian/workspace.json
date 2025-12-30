@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameTest/pandas/pandas命令.md",
+                "file": "GameTest/人工智能考证.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pandas命令"
+              "title": "人工智能考证"
             }
           }
         ],
@@ -270,8 +270,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caad6425d5875ad6",
+  "active": "5a806f90db68b89d",
   "lastOpenFiles": [
+    "GameTest/pandas/pandas命令.md",
     "GameTest/pandas/pandas的plot和matplotlib.pyplot的区别.md",
     "GameTest/pandas/pandas的plot.md",
     "GameTest/pandas/matplotlib.pyplot.md",
@@ -307,7 +308,6 @@
     "GameTest/游戏测试-性能测试/性能测试.md",
     "GameTest/网络测试.md",
     "GameTest/技术面,人事面准备.md",
-    "背包模块.md",
     "GameTest/面试",
     "GameTest/api_ai_xhs",
     "GameTest/提示词",
